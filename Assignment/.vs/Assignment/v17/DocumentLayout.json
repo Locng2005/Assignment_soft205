@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\gui_qlbanhang\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|solutionrelative:gui_qlbanhang\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|c:\\users\\asus\\desktop\\assignment_soft205\\assignment\\gui_qlbanhang\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|solutionrelative:gui_qlbanhang\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\gui_qlbanhang\\ql_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|solutionrelative:gui_qlbanhang\\ql_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\gui_qlbanhang\\ql_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|solutionrelative:gui_qlbanhang\\ql_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7259651A-5466-4142-A336-25BA9D3260AE}|BUS_QLBanHang\\BUS_QLBanHang.csproj|C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\bus_qlbanhang\\bus_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7259651A-5466-4142-A336-25BA9D3260AE}|BUS_QLBanHang\\BUS_QLBanHang.csproj|solutionrelative:bus_qlbanhang\\bus_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\gui_qlbanhang\\ql_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|solutionrelative:gui_qlbanhang\\ql_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7CD7AE-5D74-46B2-8CA3-2604627B5793}|DAL_QLBanHang\\DAL_QLBanHang.csproj|C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\dal_qlbanhang\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7CD7AE-5D74-46B2-8CA3-2604627B5793}|DAL_QLBanHang\\DAL_QLBanHang.csproj|solutionrelative:dal_qlbanhang\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\gui_qlbanhang\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|solutionrelative:gui_qlbanhang\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\gui_qlbanhang\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|solutionrelative:gui_qlbanhang\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\gui_qlbanhang\\ql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4C9BEC-0C8A-41C6-B45B-90E44498C406}|GUI_QLBanHang\\GUI_QLBanHang.csproj|solutionrelative:gui_qlbanhang\\ql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7CD7AE-5D74-46B2-8CA3-2604627B5793}|DAL_QLBanHang\\DAL_QLBanHang.csproj|c:\\users\\asus\\desktop\\assignment_soft205\\assignment\\dal_qlbanhang\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7CD7AE-5D74-46B2-8CA3-2604627B5793}|DAL_QLBanHang\\DAL_QLBanHang.csproj|solutionrelative:dal_qlbanhang\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\DAL_QLBanHang\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DAL_QLBanHang\\DBConnect.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\DAL_QLBanHang\\DBConnect.cs",
+              "RelativeToolTip": "DAL_QLBanHang\\DBConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:59:51.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ql_SanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\Ql_SanPham.cs",
+              "RelativeDocumentMoniker": "GUI_QLBanHang\\Ql_SanPham.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\Ql_SanPham.cs [Design]",
+              "RelativeToolTip": "GUI_QLBanHang\\Ql_SanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:37:42.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QL_NhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\QL_NhanVien.cs",
+              "RelativeDocumentMoniker": "GUI_QLBanHang\\QL_NhanVien.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\QL_NhanVien.cs [Design]",
+              "RelativeToolTip": "GUI_QLBanHang\\QL_NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:37:40.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\login.cs",
+              "RelativeDocumentMoniker": "GUI_QLBanHang\\login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\login.cs",
+              "RelativeToolTip": "GUI_QLBanHang\\login.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:34:27.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\login.cs",
+              "RelativeDocumentMoniker": "GUI_QLBanHang\\login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\login.cs [Design]",
+              "RelativeToolTip": "GUI_QLBanHang\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:34:24.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\Main.cs",
+              "RelativeDocumentMoniker": "GUI_QLBanHang\\Main.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\Main.cs",
+              "RelativeToolTip": "GUI_QLBanHang\\Main.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwD0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:39:06.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\Main.cs",
+              "RelativeDocumentMoniker": "GUI_QLBanHang\\Main.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\Main.cs [Design]",
+              "RelativeToolTip": "GUI_QLBanHang\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:38:51.125Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\DAL_QLBanHang\\DAL_NhanVien.cs",
+              "RelativeDocumentMoniker": "DAL_QLBanHang\\DAL_NhanVien.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\DAL_QLBanHang\\DAL_NhanVien.cs",
+              "RelativeToolTip": "DAL_QLBanHang\\DAL_NhanVien.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAYwNcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:34:14.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BUS_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\BUS_QLBanHang\\BUS_NhanVien.cs",
+              "RelativeDocumentMoniker": "BUS_QLBanHang\\BUS_NhanVien.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\BUS_QLBanHang\\BUS_NhanVien.cs",
+              "RelativeToolTip": "BUS_QLBanHang\\BUS_NhanVien.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:32:47.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QL_KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\QL_KhachHang.cs",
+              "RelativeDocumentMoniker": "GUI_QLBanHang\\QL_KhachHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\QL_KhachHang.cs",
+              "RelativeToolTip": "GUI_QLBanHang\\QL_KhachHang.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:19:59.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QL_KhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\QL_KhachHang.cs",
+              "RelativeDocumentMoniker": "GUI_QLBanHang\\QL_KhachHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Assignment_soft205\\Assignment\\GUI_QLBanHang\\QL_KhachHang.cs [Design]",
+              "RelativeToolTip": "GUI_QLBanHang\\QL_KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:19:56.971Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
